@@ -1,6 +1,6 @@
 # CCTest: Critical Configuration Testing for Autonomous Driving Systems
 
-The code base for the CCTest is available at [https://github.com/LIIHWF/CCTest](https://github.com/LIIHWF/CCTest)
+The code base for the CCTest is available at [https://github.com/LIIHWF/autopilot-compositional-testing](https://github.com/LIIHWF/autopilot-compositional-testing)
 
 A video demonstration for using CCTest is available at [here]()
 
